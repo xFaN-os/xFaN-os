@@ -1,0 +1,6 @@
+- 👋 Hi, I am the creator of such projects as "xSpace", "DepWin".
+- 👀 I am interested in creating files in Visual Studio 2022, batch files "*.bat", "*.cmd", as well as applications "*.exe".
+- 🌱 I am currently studying to be a game or computer application developer.
+- 🙂 I speak Russian and I am writing this description in English.
+- 📫 Contact me via VKontakte "https://vk.com/xsavlly "
+- 😫 Sad Fact: When I write long code and then run it, I get an error 😫
